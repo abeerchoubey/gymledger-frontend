@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://139.59.15.90:3000/api';
+const API_BASE_URL = 'https:api.gymledger.in.net/api';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
